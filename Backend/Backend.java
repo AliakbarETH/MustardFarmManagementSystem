@@ -17,4 +17,9 @@ public class Backend {
      2) Planting Dates
      3) Harvesting Dates
      4) Yield Information
+ * ReportingAndAnalytics
+ * Features we need:
+     1) Generate reports on crop yields, expenses, revenue, etc.
+     2) Provide insights into farm operations
+ * 
  */
