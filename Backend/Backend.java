@@ -6,5 +6,9 @@ public class Backend {
 
 /*
  * Features we need to develop
- * Crop Management(crop_types, planting_dates, harvesting_dates, yeild_information)
+ * ReportingAndAnalytics
+ * Features we need:
+     1) Generate reports on crop yields, expenses, revenue, etc.
+     2) Provide insights into farm operations
+ * 
  */
