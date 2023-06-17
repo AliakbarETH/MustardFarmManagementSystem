@@ -6,5 +6,8 @@ public class Backend {
 
 /*
  * Features we need to develop
- * Crop Management(crop_types, planting_dates, harvesting_dates, yeild_information)
+ * WeatherAndIntegration
+ * Features we need:
+     1) Integration with weather APIs
+     2) Provide real-time weather information
  */
