@@ -27,4 +27,8 @@ public class Backend {
      1) Plan and schedule farm tasks
      2) Ensure timely execution of tasks
  *  
+ * WeatherAndIntegration
+ * Features we need:
+     1) Integration with weather APIs
+     2) Provide real-time weather information
  */
